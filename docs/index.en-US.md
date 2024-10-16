@@ -18,8 +18,9 @@ features:
   - icon: https://gw.alipayobjects.com/zos/bmw-prod/d1ee0c6f-5aed-4a45-a507-339a4bfe076c/k7bjsocq_w144_h144.png
     title: share
     desc: share
-footer: Open-source MIT Licensed | Copyright © 2022<br />Powered by WSK
+footer: Open-source MIT Licensed | Copyright © 2022<br />Powered by hyh
 ---
+
 <h4 style="text-align: center">Develop based on React+TypeScript</h4>
 <h4 style="text-align: center">A special open source project</h4>
 <h4 style="text-align: center">Here, maybe you can see something different</h4>

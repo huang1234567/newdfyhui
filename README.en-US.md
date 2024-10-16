@@ -1,4 +1,4 @@
-# WSK Design
+# newdfyhui Design
 
 [简体中文](./README.md) | English
 
@@ -61,6 +61,7 @@
 └─ yarn.lock
 
 ```
+
 The rest of the documents can be consulted by yourself.
 
 ## 🤖 Command introduction
