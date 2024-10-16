@@ -9,9 +9,11 @@ export default defineConfig({
     ['en-US', 'English'],
   ],
   favicon:
-    'https://user-images.githubusercontent.com/9554297/83762004-a0761b00-a6a9-11ea-83b4-9c8ff721d4b8.png',
+    // 'https://user-images.githubusercontent.com/9554297/83762004-a0761b00-a6a9-11ea-83b4-9c8ff721d4b8.png',
+    'http://fsscuat.yuhong.com.cn:90/ecs-console/favicon.ico',
   logo:
-    'https://user-images.githubusercontent.com/9554297/83762004-a0761b00-a6a9-11ea-83b4-9c8ff721d4b8.png',
+    // 'https://user-images.githubusercontent.com/9554297/83762004-a0761b00-a6a9-11ea-83b4-9c8ff721d4b8.png',
+    'http://fsscuat.yuhong.com.cn:90/ecs-console/favicon.ico',
   outputPath: 'docs-dist',
   mode: 'site',
   history: {
@@ -47,6 +49,6 @@ export default defineConfig({
       },
     ],
   ],
-  exportStatic: {} // 将所有路由输出为 HTML 目录结构，以免刷新页面时 404
+  exportStatic: {}, // 将所有路由输出为 HTML 目录结构，以免刷新页面时 404
   // more config: https://d.umijs.org/config
 });
